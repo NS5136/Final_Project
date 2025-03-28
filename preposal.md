@@ -13,6 +13,6 @@ N/A
 
 - For a choose your own adveture, what would the length of the assignment look like
 (i.e ___amount of endings)?
--I am allowed to use profanity?
--Will you be able to/ do you plan to talk about some programs and how to use them that would assist
+- I am allowed to use profanity?
+- Will you be able to/ do you plan to talk about some programs and how to use them that would assist
 in making a choose your own adventure? 
